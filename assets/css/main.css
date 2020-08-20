@@ -3647,7 +3647,7 @@ button:disabled,
 
 #wrapper>.scrollZone {
     position: fixed;
-    width: 6rem;
+    width: 25rem;
     height: inherit;
     cursor: -moz-grab;
     cursor: -webkit-grab;
